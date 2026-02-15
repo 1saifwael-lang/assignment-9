@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "69923be999821e5d3e8eb539"
+  },
+  "email": "test@gmail.com",
+  "password": "$2b$10$Al6w3Kd9s5nkmXuJvvK7Z./hoXuX9sW1OrnAojhil6Er1uJO0YK9y",
+  "otp": "782807",
+  "isVerified": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69923c3199821e5d3e8eb53d"
+  },
+  "email": "test222@gmail.com",
+  "password": "$2b$10$pQm4kRUPMDv9w6jhBPrJLu2FA9oQhV3.u95hXQ.QrDHuHDCwuMwL2",
+  "otp": "894582",
+  "isVerified": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69923c5899821e5d3e8eb540"
+  },
+  "email": "1saifwael@gmail.com",
+  "password": "$2b$10$u/B5wpo40Wsc2wwIXhKg0ewSoL1bNqW57Sl60dGwpjMLgDigbFEdS",
+  "otp": "370955",
+  "isVerified": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69923d3f99821e5d3e8eb545"
+  },
+  "email": "1saifwaael@gmail.com",
+  "password": "$2b$10$5tGRla7TwnfnOKVItwsZcevOVrLP8/5fU1Gh7r9bUufrnu7VTOTD6",
+  "otp": "307335",
+  "isVerified": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69923d7899821e5d3e8eb549"
+  },
+  "email": "1saifwaaeal@gmail.com",
+  "password": "$2b$10$F0Gz4s6kZL/JneWaCI5/feX9PxVToPOYiObhvQHORq93YDHPn61qy",
+  "otp": "580405",
+  "isVerified": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69923e1fab5ab1b680445e14"
+  },
+  "email": "1saifwasaeal@gmail.com",
+  "password": "$2b$10$rVTKyL9pFxdp3Ct4Tp7ucO7xecFTmfqXERhafHPxcYGQaUbHBh7wO",
+  "otp": "675034",
+  "isVerified": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699240abab5ab1b680445e18"
+  },
+  "email": "ss@gmail.com",
+  "password": "$2b$10$7Jj0oG83sJo.B6gNoArxiOkjJmBWyXi7zNkjgVvaWhC6L3BUjTXF6",
+  "otp": "601204",
+  "isVerified": false,
+  "__v": 0
+}]
